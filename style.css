@@ -23,7 +23,7 @@ h1{
     height:10vh;
     justify-content: space-between;
     align-items: center;
-    width: 100%;
+    width: 96%;
 }
 .upper-container{
     display: flex;
@@ -54,17 +54,17 @@ h1{
 }
 
 .feature > p:nth-last-child(-n+2)::before {
-    content: '-'; 
+    content: '-';
     margin-right: 2px; 
     color:white
 }
 button{
     background-color: #282828;
-    border-radius: 10px;
+    
     color:white;
     border:3px solid #282828;
     border-radius: 4px;
-    height:6.5vh;
+    height:6vh;
     width:10vw;
     font-size: 0.9rem;
    
